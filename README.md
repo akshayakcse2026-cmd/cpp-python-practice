@@ -1,2 +1,2 @@
-# cpp-python-practice
-My C++ and Python practice programs
+# Exploration in AI python-practice
+My Python practice programs
